@@ -1,8 +1,8 @@
 {
   "name": "0ad-mod-usal",
-  "spec": "0.0.1",
-  "version": "0.0.1",
-  "label": "Mod USAL - Entornos 3D",
-  "description": "Mod para la asignatura de la Universidad de Salamanca.",
-  "dependencies": ["public>=0.0.26"]
+  "ver": "0.0.1",
+  "label": "Mod USAL - Modelado 3D",
+  "description": "Repositorio colaborativo para los modelos 3D de los alumnos de la USAL.",
+  "dependencies": ["0ad=0.26"],
+  "type": "content"
 }
