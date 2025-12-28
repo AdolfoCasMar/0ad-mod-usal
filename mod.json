@@ -1,8 +1,8 @@
 {
-  "name": "0ad-mod-usal",
-  "ver": "0.0.1",
-  "label": "Mod USAL - Modelado 3D",
-  "description": "Repositorio colaborativo para los modelos 3D de los alumnos de la USAL.",
-  "dependencies": ["0ad=0.26"],
-  "type": "content"
+    "name": "0ad-mod-usal",
+    "version": "0.0.1",
+    "label": "Mod USAL - Entornos 3D",
+    "url": "https://github.com/AdolfoCasMar/0ad-mod-usal",
+    "description": "Mod para la asignatura de la Universidad de Salamanca.",
+    "dependencies": [ "0ad>=0.27.0" ]
 }
