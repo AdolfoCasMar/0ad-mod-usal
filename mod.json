@@ -1,0 +1,8 @@
+{
+  "name": "mod-clase",
+  "spec": "0.0.1",
+  "version": "0.0.1",
+  "label": "Proyecto Modelado 3D Clase",
+  "description": "Mod para la asignatura de Entornos 3D y Personajes Animados.",
+  "dependencies": ["public"]
+}
